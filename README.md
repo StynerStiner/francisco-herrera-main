@@ -36,7 +36,7 @@ This repository contains the official website for Francisco Herrera, a talented 
 1. Clone the repository
 
 ```bash
-git clone https://github.com/stynerdev225/francisco-herrera-main.git
+git clone https://github.com/StynerStiner/francisco-herrera-main.git
 cd francisco-herrera-main
 ```
 
